@@ -1,0 +1,16 @@
+{
+  "model": "blind CycleGAN, then symmetry-MLP on cleaned data",
+  "checkpoint": "FINAL_generator_G.pt",
+  "gen_iter": 19200,
+  "test_mean": 0.5,
+  "test_std": 0.0,
+  "test_all": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "val_mean": 0.5,
+  "raw_baseline": 0.79
+}

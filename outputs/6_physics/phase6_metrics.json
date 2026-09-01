@@ -1,0 +1,8 @@
+{
+  "baseline_recip": 0.8196484943230947,
+  "physics_recip": 0.29892052710056305,
+  "baseline_corr": 0.12369297370314598,
+  "physics_corr": 0.1431031972169876,
+  "true_target_recip": 0.019,
+  "lambda_phys": 5
+}

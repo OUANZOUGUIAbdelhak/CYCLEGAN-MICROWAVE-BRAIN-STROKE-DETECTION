@@ -1,0 +1,14 @@
+{
+  "model": "MLP-on-symmetry",
+  "mirror_axis": 8,
+  "test_mean": 0.79,
+  "test_std": 0.020000000000000018,
+  "test_all": [
+    0.8,
+    0.8,
+    0.8,
+    0.8,
+    0.75
+  ],
+  "val_mean": 0.8714285714285716
+}

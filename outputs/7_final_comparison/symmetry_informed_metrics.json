@@ -1,0 +1,17 @@
+{
+  "model": "symmetry-informed CycleGAN (S - mirror S, then G), symmetry-MLP",
+  "checkpoint": "symmetry_informed_G.pt",
+  "gen_iter": 4000,
+  "test_mean": 0.51,
+  "test_std": 0.020000000000000018,
+  "test_all": [
+    0.55,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+  ],
+  "val_mean": 0.6285714285714286,
+  "classical_baseline": 0.79,
+  "blind_cyclegan": 0.5
+}
